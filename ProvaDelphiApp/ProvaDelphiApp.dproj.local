@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/27 20:02:43.000.802,C:\Users\denis\Downloads\SOFTPLAN\TESTE\Werikorus\ProvaDelphiApp-main\ProvaDelphiApp-main - Copia\ProvaDelphiApp.dproj=C:\Users\denis\Downloads\SOFTPLAN\TESTE\Werikorus\ProvaDelphiApp-main\ProvaDelphiApp-main - Copia\ProvaDelphiApp.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Componentes"/>
+    <File Path="Componentes\uspQuery.pas"/>
+    <File Path="Controller"/>
+    <File Path="Controller\uCheckException_Controller.pas"/>
+    <File Path="Controller\uGeraSQL_Controller.pas"/>
+    <File Path="Controller\uGeraSQL_Interface.pas"/>
+    <File Path="Controller\uMyThread_Controller.pas"/>
+    <File Path="Controller\uOperacoesEmLote_Calculos_Controller.pas"/>
+    <File Path="Controller\uOperacoesEmLote_Calculos_Interface.pas"/>
+    <File Path="Controller\uOperacoesEmLote_DataSet_Controller.pas"/>
+    <File Path="Controller\uOperacoesEmLote_DataSet_Intertface.pas"/>
+    <File Path="Controller\uThreading_Controller.pas"/>
+    <File Path="Controller\uThreading_Interface.pas"/>
+    <File Path="Model"/>
+    <File Path="Model\uOperacoesEmLote_Interface.pas"/>
+    <File Path="Model\uOperacoesEmLote_Model.Pas"/>
+    <File Path="View"/>
+    <File Path="View\ufMain.pas"/>
+    <File Path="View\ufMain.dfm"/>
+    <File Path="View\ufTarefa1.pas"/>
+    <File Path="View\ufTarefa1.dfm"/>
+    <File Path="View\uFTarefa2.pas"/>
+    <File Path="View\uFTarefa2.dfm"/>
+    <File Path="View\ufTarefa3.pas"/>
+    <File Path="View\ufTarefa3.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
